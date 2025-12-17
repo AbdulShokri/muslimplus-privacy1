@@ -1,4 +1,3 @@
-# muslimplus-privacy1
 <!DOCTYPE html>
 <html>
 <head>
